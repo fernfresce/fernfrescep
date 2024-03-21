@@ -8,9 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git網址"
+    "url": "https://github.com/fernfresce/fernfrescep.git"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "fernfresce": "^1.0.1"
+  }
 }
